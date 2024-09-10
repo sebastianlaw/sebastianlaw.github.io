@@ -34,6 +34,7 @@ This summer, I will be continuing and finishing my work on the research project 
 I will also be working on another project, as a co-author, with one of Dr. Hofmann's PhD students in her lab. The project focuses on creating a system that will allow swatches of different patterns to be combined both vertically and horizontally. My main contribution to this project will be designing the benchmarks and demos to demonstrate the functionality and applications of the system.
 
 [My Final Report for Swatch Merge Project](files/DREU2024_final_report_sm.pdf)
+[My Final Report for Knit Stim Project](files/DREU2024_final_report_ks.pdf)
 
 ## My Blog
 
